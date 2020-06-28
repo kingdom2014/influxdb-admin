@@ -1,0 +1,4 @@
+bind-address: :8083
+https-enabled: false
+https-certificate: "/etc/ssl/influxdb.pem"
+version: "1.0.beta"
